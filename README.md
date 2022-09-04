@@ -161,4 +161,4 @@
 <br/>
 -->
 
-[resume]: https://drive.google.com/drive/u/1/folders/1rQpVr1sh9Z9nuZBzv7OP-l4qVYy-Rcdb
+[resume]: https://drive.google.com/file/d/1w4aXwPucqppwc6O_inU8H4uL62VjK7X3/view?usp=sharing
