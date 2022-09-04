@@ -6,18 +6,18 @@
 <h3 align="center">Software Engineer | Technical Content Writer | Data Analysis Enthusiast</h3> -->
   <!-- <h3 align="center">Student at MITS, Gwalior🌟.</h3> -->
   
-### <div align="center">My Name is Mohamed Salah, a full-stack Top-Rated-Freelancer developer 👨‍💻 working remotely since 2019 🚀</div>  
+### <div align="center">My Name is Fatma Mohamed , a frontEnd-Web-developer 👨‍💻 🚀</div>  
 
 
-- 🔭 I’m currently working at [Làcrima Dairy Industrial Ltd](https://www.anuga.com/exhibitors-2021/list-of-exhibitors/?fw_goto=aussteller/aussteller/lacrima)
+
 - ✍ You can find my resume here [Resume]  
 
-- 📫 How to reach me **mohammed.salaheldin22@gmail.com**
+- 📫 How to reach me **tomahoran245@gmail.com**
 
 
 
 
-- ❓ Ask me about anything related to Desktop Apps, Web Apps, Mobile apps and Machine Learning development, and related technologies  
+- ❓ Ask me about anything related to  Web Applications and Machine Learning development, and related technologies  
   
 
 <br/>  
@@ -83,10 +83,10 @@
 ## <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
 
 <div align="center">
-<a href="https://github.com/Mosalah022" target="_blank">
+<a href="https://github.com/Fatma022" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-<a href="https://linkedin.com/in/mohammed-salah-597684182" target="_blank">
+<a href="https://www.linkedin.com/in/fatma-mohammed-308112181/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
 <a href="https://www.facebook.com/mohammed.salah.36" target="_blank">
@@ -95,12 +95,8 @@
 <a href="https://twitter.com/mo_salaah1" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>
-<a href="https://www.youtube.com/channel/UCu7ftgno0XYG-SYzDJueoMA" target="_blank">
-<img src=https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="margin-bottom: 5px;" />
-</a>
-<a href="https://instagram.com/M.salah1" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>  
+
+
 </div>  
   
 
@@ -108,7 +104,7 @@
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Mosalah022&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Fatma022&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 <br/>  
 
@@ -116,7 +112,7 @@
 
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=Mosalah022&&style=flat-square" align="center" />
+<img src="https://komarev.com/ghpvc/?username=Fatma022&&style=flat-square" align="center" />
 </div>  
   
 
